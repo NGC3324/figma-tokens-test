@@ -17,7 +17,7 @@
     },
     "selectedTokenSets": {
       "global/core": "source",
-      "global/light": "enabled"
+      "global/wise": "enabled"
     },
     "group": "search"
   },
@@ -27,7 +27,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "global/core": "source",
-      "global/dark": "enabled"
+      "global/dark": "enabled",
+      "global/wise": "enabled"
     },
     "group": "search"
   },
@@ -37,7 +38,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "global/core": "source",
-      "global/night": "enabled"
+      "global/night": "enabled",
+      "global/wise": "enabled"
     },
     "group": "search"
   }

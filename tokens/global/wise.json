@@ -14,5 +14,15 @@
       "value": "#992222",
       "type": "color"
     }
+  },
+  "text": {
+    "headline-sm": {
+      "value": {
+        "fontWeight": "{font-medium}",
+        "lineHeight": "27px",
+        "fontSize": "14px"
+      },
+      "type": "typography"
+    }
   }
 }

@@ -2,10 +2,10 @@
   "tokenSetOrder": [
     "global",
     "global/core",
-    "global/light",
+    "global/pc",
+    "global/wise",
     "global/dark",
     "global/night",
-    "global/pc",
     "medical/light"
   ]
 }

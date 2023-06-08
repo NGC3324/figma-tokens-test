@@ -1,8 +1,4 @@
 {
-  "5": {
-    "value": "5%",
-    "type": "opacity"
-  },
   "space": {
     "none": {
       "value": "0",
@@ -99,20 +95,15 @@
     "value": "500",
     "type": "fontWeights"
   },
-  "text": {
-    "headline-sm": {
-      "value": {
-        "fontSize": "18px",
-        "fontWeight": "{font-medium}",
-        "lineHeight": "24px"
-      },
-      "type": "typography",
-      "description": "副标题"
+  "opacity": {
+    "5": {
+      "value": "5%",
+      "type": "opacity"
+    },
+    "none": {
+      "value": "0",
+      "type": "opacity"
     }
-  },
-  "none": {
-    "value": "0",
-    "type": "opacity"
   },
   "rounded": {
     "none": {
