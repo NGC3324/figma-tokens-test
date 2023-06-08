@@ -1,0 +1,11 @@
+{
+  "tokenSetOrder": [
+    "global",
+    "global/core",
+    "global/light",
+    "global/dark",
+    "global/night",
+    "global/pc",
+    "medical/light"
+  ]
+}
