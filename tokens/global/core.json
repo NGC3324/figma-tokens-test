@@ -1,1 +1,90 @@
-{}
+{
+  "space": {
+    "none": {
+      "value": "0",
+      "type": "spacing"
+    },
+    "3xs": {
+      "value": "0.03rem",
+      "type": "spacing"
+    },
+    "xxs": {
+      "value": "0.06rem",
+      "type": "spacing"
+    },
+    "xs": {
+      "value": "0.09rem",
+      "type": "spacing"
+    },
+    "sm": {
+      "value": "0.12rem",
+      "type": "spacing"
+    },
+    "md": {
+      "value": "0.15rem",
+      "type": "spacing"
+    },
+    "lg": {
+      "value": "0.18rem",
+      "type": "spacing"
+    },
+    "xl": {
+      "value": "0.21rem",
+      "type": "spacing"
+    },
+    "xxl": {
+      "value": "0.24rem",
+      "type": "spacing"
+    },
+    "3xl": {
+      "value": "0.27rem",
+      "type": "spacing"
+    }
+  },
+  "red": {
+    "0": {
+      "value": "#e65b5b",
+      "type": "color"
+    },
+    "1": {
+      "value": "#c9474b",
+      "type": "color"
+    },
+    "2": {
+      "value": "#ad343c",
+      "type": "color"
+    },
+    "3": {
+      "value": "#91242f",
+      "type": "color"
+    },
+    "4": {
+      "value": "#751724",
+      "type": "color"
+    },
+    "5": {
+      "value": "#590d1a",
+      "type": "color"
+    },
+    "-5": {
+      "value": "#fff7f5",
+      "type": "color"
+    },
+    "-4": {
+      "value": "#fae0dc",
+      "type": "color"
+    },
+    "-3": {
+      "value": "#f5c0ba",
+      "type": "color"
+    },
+    "-2": {
+      "value": "#f09f99",
+      "type": "color"
+    },
+    "-1": {
+      "value": "#eb7e7a",
+      "type": "color"
+    }
+  }
+}
