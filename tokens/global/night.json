@@ -1,1 +1,6 @@
-{}
+{
+  "color-text": {
+    "value": "#666666",
+    "type": "color"
+  }
+}

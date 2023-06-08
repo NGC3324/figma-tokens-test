@@ -1,1 +1,8 @@
-{}
+{
+  "normal": {
+    "color-text": {
+      "value": "#1e1f24",
+      "type": "color"
+    }
+  }
+}
