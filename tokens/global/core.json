@@ -1,4 +1,8 @@
 {
+  "5": {
+    "value": "5%",
+    "type": "opacity"
+  },
   "space": {
     "none": {
       "value": "0",
@@ -85,6 +89,39 @@
     "-1": {
       "value": "#eb7e7a",
       "type": "color"
+    }
+  },
+  "font-regular": {
+    "value": "400",
+    "type": "fontWeights"
+  },
+  "font-medium": {
+    "value": "500",
+    "type": "fontWeights"
+  },
+  "text": {
+    "headline-sm": {
+      "value": {
+        "fontSize": "18px",
+        "fontWeight": "{font-medium}",
+        "lineHeight": "24px"
+      },
+      "type": "typography",
+      "description": "副标题"
+    }
+  },
+  "none": {
+    "value": "0",
+    "type": "opacity"
+  },
+  "rounded": {
+    "none": {
+      "value": "0",
+      "type": "borderRadius"
+    },
+    "xxs": {
+      "value": "0.03rem",
+      "type": "borderRadius"
     }
   }
 }

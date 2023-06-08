@@ -1,6 +1,12 @@
 {
-  "color-text": {
-    "value": "#666666",
-    "type": "color"
+  ":normal": {
+    "color-text": {
+      "value": "#666666",
+      "type": "color"
+    },
+    "color-text-tiny": {
+      "value": "#50525c",
+      "type": "color"
+    }
   }
 }

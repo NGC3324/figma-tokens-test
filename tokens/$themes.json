@@ -12,7 +12,9 @@
   {
     "id": "b13c1a945c921f7bcbb16f080f1a0513318ab9c7",
     "name": "wise",
-    "$figmaStyleReferences": {},
+    "$figmaStyleReferences": {
+      ":normal.color-text": "S:7e6d0e33c7c1b379ba70678201fa361962b6774b,"
+    },
     "selectedTokenSets": {
       "global/core": "source",
       "global/light": "enabled"

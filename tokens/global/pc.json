@@ -1,1 +1,24 @@
-{}
+{
+  ":normal": {
+    "color-text": {
+      "value": "#111111",
+      "type": "color"
+    }
+  },
+  "text": {
+    "headline-sm": {
+      "value": {
+        "lineHeight": "24px",
+        "fontSize": "18px"
+      },
+      "type": "typography"
+    },
+    "headline": {
+      "value": {
+        "lineHeight": "21px",
+        "fontSize": "27px"
+      },
+      "type": "typography"
+    }
+  }
+}
