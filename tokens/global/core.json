@@ -96,12 +96,72 @@
     "type": "fontWeights"
   },
   "opacity": {
+    "0": {
+      "value": "0",
+      "type": "opacity"
+    },
     "5": {
       "value": "5%",
       "type": "opacity"
     },
-    "none": {
-      "value": "0",
+    "10": {
+      "value": "10%",
+      "type": "opacity"
+    },
+    "15": {
+      "value": "15%",
+      "type": "opacity"
+    },
+    "20": {
+      "value": "20%",
+      "type": "opacity"
+    },
+    "25": {
+      "value": "25%",
+      "type": "opacity"
+    },
+    "30": {
+      "value": "30%",
+      "type": "opacity"
+    },
+    "40": {
+      "value": "40%",
+      "type": "opacity"
+    },
+    "50": {
+      "value": "50%",
+      "type": "opacity"
+    },
+    "60": {
+      "value": "60%",
+      "type": "opacity"
+    },
+    "70": {
+      "value": "70%",
+      "type": "opacity"
+    },
+    "75": {
+      "value": "75%",
+      "type": "opacity"
+    },
+    "80": {
+      "value": "80%",
+      "type": "opacity"
+    },
+    "85": {
+      "value": "85%",
+      "type": "opacity"
+    },
+    "90": {
+      "value": "90%",
+      "type": "opacity"
+    },
+    "95": {
+      "value": "95%",
+      "type": "opacity"
+    },
+    "100": {
+      "value": "100%",
       "type": "opacity"
     }
   },
@@ -112,6 +172,34 @@
     },
     "xxs": {
       "value": "0.03rem",
+      "type": "borderRadius"
+    },
+    "xs": {
+      "value": "0.06rem",
+      "type": "borderRadius"
+    },
+    "sm": {
+      "value": "0.09rem",
+      "type": "borderRadius"
+    },
+    "md": {
+      "value": "0.12rem",
+      "type": "borderRadius"
+    },
+    "lg": {
+      "value": "0.15rem",
+      "type": "borderRadius"
+    },
+    "xl": {
+      "value": "0.18rem",
+      "type": "borderRadius"
+    },
+    "xxl": {
+      "value": "0.21rem",
+      "type": "borderRadius"
+    },
+    "full": {
+      "value": "99.99rem",
       "type": "borderRadius"
     }
   }

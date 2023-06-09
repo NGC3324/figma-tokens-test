@@ -7,6 +7,12 @@
     "color-text-tiny": {
       "value": "#50525c",
       "type": "color"
+    },
+    ":primary": {
+      "color-text-primary": {
+        "value": "#4e6ef2",
+        "type": "color"
+      }
     }
   },
   ":hover": {
@@ -16,11 +22,75 @@
     }
   },
   "text": {
+    "headline-xl": {
+      "value": {
+        "lineHeight": "41px",
+        "fontSize": "35px",
+        "fontWeight": "{font-medium}"
+      },
+      "type": "typography"
+    },
+    "headline": {
+      "value": {
+        "lineHeight": "27px",
+        "fontSize": "21px",
+        "fontWeight": "{font-medium}"
+      },
+      "type": "typography"
+    },
     "headline-sm": {
       "value": {
         "fontWeight": "{font-medium}",
         "lineHeight": "27px",
         "fontSize": "14px"
+      },
+      "type": "typography"
+    },
+    "subtitle": {
+      "value": {
+        "fontWeight": "{font-regular}",
+        "lineHeight": "22px",
+        "fontSize": "16px"
+      },
+      "type": "typography"
+    },
+    "subtitle-sm": {
+      "value": {
+        "fontWeight": "{font-regular}",
+        "lineHeight": "20px",
+        "fontSize": "14px"
+      },
+      "type": "typography"
+    },
+    "body-lg": {
+      "value": {
+        "lineHeight": "25px",
+        "fontSize": "16px",
+        "fontWeight": "{font-regular}"
+      },
+      "type": "typography"
+    },
+    "body": {
+      "value": {
+        "fontWeight": "{font-regular}",
+        "lineHeight": "23px",
+        "fontSize": "14px"
+      },
+      "type": "typography"
+    },
+    "caption": {
+      "value": {
+        "fontWeight": "{font-medium}",
+        "lineHeight": "21px",
+        "fontSize": "12px"
+      },
+      "type": "typography"
+    },
+    "caption-sm": {
+      "value": {
+        "fontWeight": "{font-regular}",
+        "lineHeight": "20px",
+        "fontSize": "11px"
       },
       "type": "typography"
     }
