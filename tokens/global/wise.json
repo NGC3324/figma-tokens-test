@@ -1,22 +1,22 @@
 {
-  ":normal": {
-    "color-text": {
+  "color:normal": {
+    "text": {
       "value": "#1e1f24",
       "type": "color"
     },
-    "color-text-tiny": {
+    "text-tiny": {
       "value": "#50525c",
       "type": "color"
     },
     ":primary": {
-      "color-text-primary": {
+      "text-primary": {
         "value": "#4e6ef2",
         "type": "color"
       }
     }
   },
-  ":hover": {
-    "color-text-hover": {
+  "color:hover": {
+    "text-hover": {
       "value": "#992222",
       "type": "color"
     }

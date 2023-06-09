@@ -1,6 +1,6 @@
 {
-  ":normal": {
-    "color-text": {
+  "color:normal": {
+    "text": {
       "value": "#889911",
       "type": "color"
     }
