@@ -714,6 +714,46 @@
     }
   },
   "color:disabled": {
+    "text-disabled": {
+      "value": "#1e1f2466",
+      "type": "color"
+    },
+    "text-tiny-disabled": {
+      "value": "#50525c66",
+      "type": "color"
+    },
+    "text-minor-disabled": {
+      "value": "#84869166",
+      "type": "color"
+    },
+    "text-slim-disabled": {
+      "value": "#b7b9c166",
+      "type": "color"
+    },
+    "bg-disabled": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "bg-raised-disabled": {
+      "value": "#ffffff66",
+      "type": "color"
+    },
+    "bg-dent-disabled": {
+      "value": "#f5f6f9",
+      "type": "color"
+    },
+    "border-disabled": {
+      "value": "#b7b9c166",
+      "type": "color"
+    },
+    "border-minor-disabled": {
+      "value": "#edeef066",
+      "type": "color"
+    },
+    "border-tiny-disabled": {
+      "value": "#dbdce066",
+      "type": "color"
+    },
     ":em": {
       "text-em-disabled": {
         "value": "#eb333366",
@@ -863,46 +903,6 @@
         "value": "#f7313133",
         "type": "color"
       }
-    },
-    "text-disabled": {
-      "value": "#1e1f2466",
-      "type": "color"
-    },
-    "text-tiny-disabled": {
-      "value": "#50525c66",
-      "type": "color"
-    },
-    "text-minor-disabled": {
-      "value": "#84869166",
-      "type": "color"
-    },
-    "text-slim-disabled": {
-      "value": "#b7b9c166",
-      "type": "color"
-    },
-    "bg-disabled": {
-      "value": "#ffffff",
-      "type": "color"
-    },
-    "bg-raised-disabled": {
-      "value": "#ffffff66",
-      "type": "color"
-    },
-    "bg-dent-disabled": {
-      "value": "#f5f6f9",
-      "type": "color"
-    },
-    "border-disabled": {
-      "value": "#b7b9c166",
-      "type": "color"
-    },
-    "border-minor-disabled": {
-      "value": "#edeef066",
-      "type": "color"
-    },
-    "border-tiny-disabled": {
-      "value": "#dbdce066",
-      "type": "color"
     },
     ":inverse": {
       "text-inverse-disabled": {
