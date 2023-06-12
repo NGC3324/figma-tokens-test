@@ -28,16 +28,16 @@
       "value": "#ffffff",
       "type": "color"
     },
-    "border-minor": {
-      "value": "#edeef0",
-      "type": "color"
-    },
     "border": {
       "value": "#b7b9c1",
       "type": "color"
     },
     "border-tiny": {
       "value": "#dbdce0",
+      "type": "color"
+    },
+    "border-minor": {
+      "value": "#edeef0",
       "type": "color"
     },
     "text-on-page": {
@@ -49,12 +49,12 @@
       "type": "color"
     },
     ":em": {
-      "text-on-em": {
-        "value": "#ffffff",
-        "type": "color"
-      },
       "text-em": {
         "value": "#eb3333",
+        "type": "color"
+      },
+      "text-on-em": {
+        "value": "#ffffff",
         "type": "color"
       },
       "bg-em": {
@@ -246,6 +246,46 @@
     }
   },
   "color:hover": {
+    "text-hover": {
+      "value": "#1e1f24",
+      "type": "color"
+    },
+    "text-tiny-hover": {
+      "value": "#50525c",
+      "type": "color"
+    },
+    "text-minor-hover": {
+      "value": "#848691",
+      "type": "color"
+    },
+    "text-slim-hover": {
+      "value": "#b7b9c1",
+      "type": "color"
+    },
+    "bg-hover": {
+      "value": "#f2f2f2",
+      "type": "color"
+    },
+    "bg-dent-hover": {
+      "value": "#e8e9ec",
+      "type": "color"
+    },
+    "bg-raised-hover": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "border-hover": {
+      "value": "#848691",
+      "type": "color"
+    },
+    "border-tiny-hover": {
+      "value": "#cfd0d4",
+      "type": "color"
+    },
+    "border-minor-hover": {
+      "value": "#e0e1e3",
+      "type": "color"
+    },
     ":success": {
       "text-success-hover": {
         "value": "#33a058",
@@ -396,46 +436,6 @@
         "type": "color"
       }
     },
-    "text-hover": {
-      "value": "#1e1f24",
-      "type": "color"
-    },
-    "text-tiny-hover": {
-      "value": "#50525c",
-      "type": "color"
-    },
-    "text-minor-hover": {
-      "value": "#848691",
-      "type": "color"
-    },
-    "text-slim-hover": {
-      "value": "#b7b9c1",
-      "type": "color"
-    },
-    "bg-hover": {
-      "value": "#f2f2f2",
-      "type": "color"
-    },
-    "bg-dent-hover": {
-      "value": "#e8e9ec",
-      "type": "color"
-    },
-    "bg-raised-hover": {
-      "value": "#ffffff",
-      "type": "color"
-    },
-    "border-hover": {
-      "value": "#848691",
-      "type": "color"
-    },
-    "border-minor-hover": {
-      "value": "#e0e1e3",
-      "type": "color"
-    },
-    "border-tiny-hover": {
-      "value": "#cfd0d4",
-      "type": "color"
-    },
     ":inverse": {
       "text-tiny-inverse-hover": {
         "value": "#ffffffcc",
@@ -484,12 +484,12 @@
       "value": "#4e6ef2",
       "type": "color"
     },
-    "text-minor-active": {
-      "value": "#848691",
-      "type": "color"
-    },
     "text-tiny-active": {
       "value": "#50525c",
+      "type": "color"
+    },
+    "text-minor-active": {
+      "value": "#848691",
       "type": "color"
     },
     "text-slim-active": {
@@ -734,24 +734,24 @@
       "value": "#ffffff",
       "type": "color"
     },
-    "bg-raised-disabled": {
-      "value": "#ffffff66",
-      "type": "color"
-    },
     "bg-dent-disabled": {
       "value": "#f5f6f9",
+      "type": "color"
+    },
+    "bg-raised-disabled": {
+      "value": "#ffffff66",
       "type": "color"
     },
     "border-disabled": {
       "value": "#b7b9c166",
       "type": "color"
     },
-    "border-minor-disabled": {
-      "value": "#edeef066",
-      "type": "color"
-    },
     "border-tiny-disabled": {
       "value": "#dbdce066",
+      "type": "color"
+    },
+    "border-minor-disabled": {
+      "value": "#edeef066",
       "type": "color"
     },
     ":em": {
